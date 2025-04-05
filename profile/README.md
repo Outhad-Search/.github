@@ -7,6 +7,7 @@ Outhad Search provides powerful AI based search engine solutions for e-commerce 
 ## ✨ Features
 
 - **AI based Search Engine**: Ai based sematic and vector search capabilities
+- **Multimodal AI-based Search**: Search with Images, Videos, Audio, and Text.
 - **High-Performance Search Engine**: Fast and accurate search results for your e-commerce catalog
 - **Easy Integration**: Simple APIs and SDKs for seamless integration
 - **Advanced Filters**: Enable customers to narrow down search results effectively
